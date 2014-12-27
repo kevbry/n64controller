@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "N64 Stick Converter PCB v2.1", "N64 Stick Converter PCB v2.1\N64 Stick Converter PCB v2.1.avrgccproj", "{E42EDF43-985F-46B4-9DD9-2F664770DE82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42EDF43-985F-46B4-9DD9-2F664770DE82}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E42EDF43-985F-46B4-9DD9-2F664770DE82}.Debug|AVR.Build.0 = Debug|AVR
+		{E42EDF43-985F-46B4-9DD9-2F664770DE82}.Release|AVR.ActiveCfg = Release|AVR
+		{E42EDF43-985F-46B4-9DD9-2F664770DE82}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
